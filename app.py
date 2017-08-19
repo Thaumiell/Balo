@@ -1,5 +1,4 @@
 ### The only import you need!
-import default_app
 import socket
  
 ### Options (Don't edit)
