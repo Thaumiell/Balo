@@ -1,1 +1,1 @@
-APP_FILE= "Balo.py"
+APP_FILE= "Balo/Balo.py"
