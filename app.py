@@ -7,7 +7,7 @@ PORT = 6667  # port
 ### Options (Edit this)
 PASS = "oauth:y9k2t2phpr4ixo6e96j7saljkdmg74"  # bot password can be found on https://twitchapps.com/tmi/
 BOT = "thaumiell"  # Bot's name [NO CAPITALS]
-CHANNEL = "thaumiell"  # Channal name [NO CAPITALS]
+CHANNEL = "akylus_"  # Channal name [NO CAPITALS]
 OWNER = "thaumiell"  # Owner's name [NO CAPITALS]
  
 ### Functions
